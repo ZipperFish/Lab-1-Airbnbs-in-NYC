@@ -1,5 +1,6 @@
 ---
 title: "Lab 1: Airbnbs in NYC"
+author: "Nana Frimpong"
 format: html
 editor: source
 ---
